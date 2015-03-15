@@ -1,0 +1,1 @@
+The Box is a game designed as a final project for NYU ITP Game Design class. People really enjoyed it. This is a code repository to try and develop an open-source multiplayer version of the card game for both PC & X-box Live using the Microsoft XNA Studio.
